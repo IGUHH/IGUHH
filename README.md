@@ -11,7 +11,6 @@
 
 - **Hardware:** Montagem, manutenção e suporte técnico.
 - **Redes:** Protocolos de roteamento, VLANs e endereçamento IPv4/IPv6.
-- **Sistemas:** Windows 11 & Ubuntu 24.04.
 
 ---
 
