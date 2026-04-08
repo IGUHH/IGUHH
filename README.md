@@ -1,4 +1,4 @@
-# Olá, eu sou o Igor! 👋
+# Olá, me chamo Igor! 👋
 
 ## 🖥️ Estudante de Redes de Computadores
 
