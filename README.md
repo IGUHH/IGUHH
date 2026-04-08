@@ -1,7 +1,6 @@
 # Olá, eu sou o Igor! 👋
 
 ## 🖥️ Estudante de Redes de Computadores
-Sou entusiasta de infraestrutura, hardware e segurança cibernética. Atualmente focado em dominar modelos OSI/TCP-IP e configurações Cisco.
 
 ---
 
@@ -24,4 +23,4 @@ Aqui você pode usar os famosos "cards" que atualizam sozinhos:
 ---
 
 ### 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-marques-do-nascimento/)
