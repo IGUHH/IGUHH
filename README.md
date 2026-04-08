@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Igor! 👋
 
-<!--
-**IGUHH/IGUHH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🖥️ Estudante de Redes de Computadores
+Sou entusiasta de infraestrutura, hardware e segurança cibernética. Atualmente focado em dominar modelos OSI/TCP-IP e configurações Cisco.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+![Redes](https://img.shields.io/badge/Networking-Cisco-blue?style=for-the-badge&logo=cisco)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?style=for-the-badge&logo=ubuntu)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+- **Hardware:** Montagem, manutenção e suporte técnico.
+- **Redes:** Protocolos de roteamento, VLANs e endereçamento IPv4/IPv6.
+- **Sistemas:** Windows 11 & Ubuntu 24.04.
+
+---
+
+### 📊 Estatísticas do GitHub
+Aqui você pode usar os famosos "cards" que atualizam sozinhos:
+
+![Estatísticas do IGUHH](https://github-readme-stats.vercel.app/api?username=IGUHH&show_icons=true&theme=vivid+orange)
+
+---
+
+### 🌐 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
