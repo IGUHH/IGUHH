@@ -14,13 +14,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-Aqui você pode usar os famosos "cards" que atualizam sozinhos:
-
-![Estatísticas do IGUHH](https://github-readme-stats.vercel.app/api?username=IGUHH&show_icons=true&theme=vivid+orange)
-
----
-
 ### 🌐 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-marques-do-nascimento/)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:igormarques821@outlook.com)
