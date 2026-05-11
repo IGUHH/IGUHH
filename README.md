@@ -9,8 +9,6 @@
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?style=for-the-badge&logo=ubuntu)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-- **Hardware:** Montagem, manutenção e suporte técnico.
-- **Redes:** Protocolos de roteamento, VLANs e endereçamento IPv4/IPv6.
 
 ---
 
