@@ -4,7 +4,7 @@
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas.
 ![Redes](https://img.shields.io/badge/Networking-Cisco-blue?style=for-the-badge&logo=cisco)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?style=for-the-badge&logo=ubuntu)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
